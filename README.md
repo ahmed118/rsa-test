@@ -1,2 +1,2 @@
 # rsa-test
-This script obtain Cipher text from p,q,dp,dq and c :) .. 
+Simple Script to obtain cipher text from the DP, DQ, P, Q & C. :D
